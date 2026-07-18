@@ -1,0 +1,10 @@
+{
+  "mappings": [
+    "/content/gehealthcare/:/",
+    "/content/gehealthcare/configuration:/.helix/config.json",
+    "/content/gehealthcare/metadata:/metadata.json"
+  ],
+  "includes": [
+    "/content/gehealthcare/"
+  ]
+}
